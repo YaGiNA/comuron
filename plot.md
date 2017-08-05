@@ -39,7 +39,7 @@
 - このプロセスは、多少の違いはあれど、他の分野への応用が可能なのでは？
 	- 例: 単語を覚える際に
 	- ここで引用
-	- https://www.eiken.or.jp/center_for_research/pdf/bulletin/vol16/vol_16_p174-p180.pdf
+	- [https://www.eiken.or.jp/center_for_research/pdf/bulletin/vol16/vol_16_p174-p180.pdf](https://www.eiken.or.jp/center_for_research/pdf/bulletin/vol16/vol_16_p174-p180.pdf)
 	- 英語において、語幹・接頭語・接尾辞をグループ分けして覚えさせた場合、機械的な覚え方より良好な結果
 
 
