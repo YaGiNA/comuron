@@ -16,8 +16,9 @@ def length(strings):
 with open('report.txt', mode='w') as f:
     r = open('report.md', 'r')
     for line in r:
+        if not (line[0] == "#" or line[0] == "(" or line[0] == '"'):
+            line = "　" + line
         pr_line = length(line)
-        if not pr_line == "\n":
-            pr_line = pr_line.replace("@", "\n")
+        pr_line = pr_line.replace("@", "\n")
         f.write(pr_line)
     r.close()
